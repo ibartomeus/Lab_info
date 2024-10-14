@@ -36,19 +36,15 @@ This repo is for internal use only. It contains useful information if you work w
 
 - RCE GitHub with useful notes about how to do things: https://github.com/RadicalCommEcol (https://github.com/RadicalCommEcol/Notes)
 
-- EBD resources (To Be Updated): 
-
-  - Information about cars, equipment, laboratories -> talk to Curro.
-
-  - For informatic incidences you can fill an issue in glpi webpage (link: http://web.ebd.csic.es/website1/soloebd.aspx). IT number is 1047. Don't expect much.
-
-  - Cars can be reserved here (link: http://web.ebd.csic.es/website1/soloebd.aspx), but you need permission the first time you log in. Talk with Nacho for this. 
-
-  - Internet (TBA)
-
-  - EBD Wellcome brochure: http://www.ebd.csic.es/group/guest/inicio
- 
-  - EBD labs: http://www.ebd.csic.es/laboratorios
+-EBD resources: 
+*Anuncio Sistema Reserva Coches: https://saco.ebd.csic.es/s/ZTqDAMadBG6dBaR
+*Listín telefónico EBD: http://intranet.ebd.csic.es/listin-telefonico
+*Reserva de vehiculos: http://reservasvehiculos.ebd.csic.es
+*Reserva de Salas: http://reservas.ebd.csic.es
+*Alojamientos a la RBD: http://alojamientos.ebd.csic.es/Habitaciones (los alojamientos se gestionan en el correo ebd_reservas@ebd.csic.es )
+*Accesos a la RBD: http://alojamientos.ebd.csic.es/Habitaciones
+*Saco EBD: https://saco.ebd.csic.es
+*Compras: http://ebdcompras.ebd.csic.es:3000/
 
 
 - Lab resources: 
