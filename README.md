@@ -4,15 +4,15 @@ This repo is for internal use only. It contains useful information if you work w
 
 - My goal is that you thrive while here. 
 
-- Use discord for quick chats. The best way to contact me is by slack or email. I usually answer in < 24-48 hours. In case of urgency, call me at my cell phone.
+- Use discord for quick chats. The best way to contact me is by discord or email. I usually answer in < 24-48 hours. In case of urgency, call me at my cell phone.
 
 - Schedules are flexible, but try to be in the lab a few central hours every day (unless in the field) or let me know if you work from home on a given day. I work at unconventinal hours, but I don't expect you to read emails outside your schedule.
 
-- Other than in Slack, I also share a lot of links on twitter and bluesky @ibartomeus (but I am becoming less active).
+- Other than in discord, I also share a lot of links on bluesky and bluesky @ibartomeus (but I am becoming less active).
 
-- We organize regular lab meetings with Godoy lab at lunch time to discuss ideas, papers, etc…
+- We organize regular lab meetings, sometimes with the Godoy lab, to discuss ideas, papers, etc…
 
-- Seminars at EBD are usually Thursday at 13:00 at CABIMER and attendance is highly encouraged. 
+- Seminars at EBD are usually Thursday at 13:00 at the Red Building and attendance is highly encouraged. 
 
 - Subscribe to boletin, tablondeanuncios and doctorando or postdoc ebd listservs if you want EBD information (boletin has the most critical info) https://listas.csic.es/wws/info/doctorandosebd
 
