@@ -4,7 +4,7 @@ This repo is for internal use only. It contains useful information if you work w
 
 - My goal is that you thrive while here. 
 
-- Use slack for quick chats. The best way to contact me is by slack or email. I usually answer in < 24-48 hours. In case of urgency, call me at my cell phone.
+- Use discord for quick chats. The best way to contact me is by slack or email. I usually answer in < 24-48 hours. In case of urgency, call me at my cell phone.
 
 - Schedules are flexible, but try to be in the lab a few central hours every day (unless in the field) or let me know if you work from home on a given day. I work at unconventinal hours, but I don't expect you to read emails outside your schedule.
 
