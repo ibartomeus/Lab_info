@@ -8,9 +8,9 @@ This repo is for internal use only. It contains useful information if you work w
 
 - Schedules are flexible, but try to be in the lab a few central hours every day (unless in the field) or let me know if you work from home on a given day. I work at unconventinal hours, but I don't expect you to read emails outside your schedule.
 
-- Other than in discord, I also share a lot of links on bluesky and bluesky @ibartomeus (but I am becoming less active).
+- Other than in discord, I also share a lot of links on bluesky @ibartomeus (but I am becoming less active).
 
-- We organize regular lab meetings, sometimes with the Godoy lab, to discuss ideas, papers, etc…
+- We organize regular lab meetings to discuss ideas, papers, etc…
 
 - Seminars at EBD are usually Thursday at 13:00 at the Red Building and attendance is highly encouraged. 
 
@@ -20,7 +20,7 @@ This repo is for internal use only. It contains useful information if you work w
 
 - Field work: Try not to go alone. If needed, notify where you are going to a contact person (could be anyone, but Curro or me are always available) and text/call the contact person when you are back. 
 
-- Meetings: My door is open all time for quick questions, but google them first, google is better than me most of the time. Feel free to schedule meetings with me ad hoc to talk about your research (or career planing). Sending relevant files (e.g. ms, analysis, figs, git link) 24 hours in advance helps me be prepared for the meeting. I am also happy to read trough your ms, grants, etc.. (even if I am not a co-author on those).
+- Meetings: My door is open all time for quick questions, but google them first, google is better than me most of the time. Feel free to schedule meetings with me ad hoc to talk about your research (or career planing). Sending relevant files (e.g. ms, analysis, figs, git link) > 24 hours in advance helps me be prepared for the meeting. I am also happy to read trough your ms, grants, etc.. (even if I am not a co-author on those).
 
 - If you use GitHub, GoogleDocs, .odt and well commented R code you will be more compatible with me (and my response will be faster). If you use Git, I’ll be happy. Start: https://happygitwithr.com/ BUT I can (try to) adapt to any software/lenguage you prefer.
 
@@ -31,6 +31,8 @@ This repo is for internal use only. It contains useful information if you work w
 - Read this lab decalog: http://bartomeuslab.com/2015/09/07/lab-decalogue/ and this: https://bartomeuslab.com/2020/03/26/managing-people-radical-candor-in-academia/ and https://bartomeuslab.com/2019/10/03/making-a-sustainable-lab/ and https://bartomeuslab.com/2015/07/13/about-motivation/ 
 
 - We have a code of conduct: https://bartomeuslab.com/2024/04/06/code-of-conduct/
+
+- We are crafters, not producers, so the use of generative LLM is disencouraged. Use AI conciously: Checking the grammar is ok, but generating an intriduction is not. Help with code is ok, asking for an analysis is not.
 
 - Learn how to enter data: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989 and report stats: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4539
 
